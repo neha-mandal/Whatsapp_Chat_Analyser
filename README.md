@@ -14,6 +14,9 @@ WhatsApp Chat Analyzer is a Streamlit-based web application that provides insigh
 - Find the **most frequently used words** in the chat.
 - Analyze **emoji usage** with a pie chart visualization.
 
+Check out the live version of the app here:
+WhatsApp Chat Analyzer
+
 ## Installation
 
 ### Prerequisites
