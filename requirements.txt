@@ -4,5 +4,4 @@ pandas
 matplotlib
 wordcloud
 emoji
-collections
 re
