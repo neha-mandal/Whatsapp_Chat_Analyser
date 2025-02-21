@@ -1,6 +1,7 @@
 ## Dependencies
-streamlit
-pandas
-matplotlib
-wordcloud
-emoji
+streamlit==1.30.0
+pandas==2.2.0
+matplotlib==3.8.2
+wordcloud==1.9.3
+emoji==2.9.0
+gunicorn==21.2.0
