@@ -2,7 +2,7 @@
 
 WhatsApp Chat Analyzer is a Streamlit-based web application that provides insightful analytics on WhatsApp chat data. It allows users to upload their chat export files and visualize various statistics, word clouds, emoji usage, and more.
 
-## Live Demo 🚀  
+## Live Demo 
 Check out the deployed app: [WhatsApp Chat Analyzer](https://whatsapp-chat-analyser-2-kirw.onrender.com)
 
 ## Features
@@ -75,5 +75,5 @@ This project is open-source under the [MIT License](LICENSE).
 Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## Author
-Developed by **Neha** 🚀
+Developed by **Neha** 
 
