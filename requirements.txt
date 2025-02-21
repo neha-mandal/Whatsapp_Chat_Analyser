@@ -1,0 +1,8 @@
+## Dependencies
+streamlit
+pandas
+matplotlib
+wordcloud
+emoji
+collections
+re
