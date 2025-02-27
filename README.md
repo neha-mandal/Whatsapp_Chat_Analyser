@@ -49,7 +49,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 2. Upload a WhatsApp chat export file (`.txt`).
-3. View and analyze various statistics and visualizations.
+3. Please ensure the time is in 24 hr format (If not ,change your device's time format before exporting the chat). 
+4. View and analyze various statistics and visualizations.
 
 ## File Structure
 ```
